@@ -1,0 +1,20 @@
+{
+    "grid": {
+        "XPointMax": 10,
+        "YPointMax": 10
+    },
+    "obstacle": [
+        {
+            "Point": {
+                "XPoint": 2,
+                "YPoint": 6
+            }
+        }, 
+        {
+            "Point": {
+                "XPoint": 8,
+                "YPoint": 5
+            }
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+go.exe test -v -cover -timeout 30s -coverprofile=go-code-cover.out ./domains
